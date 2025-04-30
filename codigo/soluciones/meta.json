@@ -1,0 +1,672 @@
+{
+    "aer": {
+        "556": {
+            "cat": "tbd",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "654": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        }
+    },
+    "kat": {
+        "acm": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "apaxiaaans": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "artichoke": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "asciifigurerotation": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "basicprogramming1": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "batterup": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "battlesimulation": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "bitsequalizer": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "bossbattle": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "bubbletea": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "calculator": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "carrots": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "cetiri": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "crackingthecode": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "different": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "digits": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "eligibility": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "exam": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "fastfood": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "filip": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "fizzbuzz": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "hangingout": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "hello": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "helpaphd": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "heritage": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "hidden": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "hillnumbers": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "hissingmicrophone": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "imagedecoding": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "inflagrantedelicto": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "irepeatmyself": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "isithalloween": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "itsasecret": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "judgingmoose": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "juryjeopardy": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "leftbeehind": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "licensetolaunch": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "lindenmayorsystem": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "lineup": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "lostlineup": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "mia": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "moscowdream": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "nizovi": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "oddgnome": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "oddities": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "onechicken": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "otpor": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "pandachess": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "peasoup": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "periodicstrings": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "phonelist": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "playfair": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "pokerhand": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "polish": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "princeandprincess": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "provincesandgold": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "qaly": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "quadrant": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "r2": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "raggedright": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "rhyming": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "smartphone": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "statistics": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "stringfactoring": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "subexpression": {
+            "cat": "string",
+            "res": {
+                "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "tarifa": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "temperature": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "textencryption": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "thelastproblem": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "timeloop": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "vote": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "zipfslaw": {
+            "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        }
+    }
+}
