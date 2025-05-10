@@ -20,8 +20,62 @@
         }
     },
     "kat": {
+        "2048": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "abinitio": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "acm": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "addingwords": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "administrativeproblems": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "almostunionfind": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "alphabetspam": {
+            "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -56,8 +110,53 @@
                 "kotlin": "NC"
             }
         },
+        "awkwardparty": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "babynames": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "baloni": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "basicinterpreter": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "basicprogramming1": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "basicprogramming2": {
+            "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -83,8 +182,26 @@
                 "kotlin": "NC"
             }
         },
+        "bitbybit": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "bitsequalizer": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "bookingaroom": {
+            "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -101,8 +218,44 @@
                 "kotlin": "NC"
             }
         },
+        "bread": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "bst": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "bubbletea": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "bungeebuilder": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "busnumbers": {
+            "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -119,8 +272,26 @@
                 "kotlin": "NC"
             }
         },
+        "candydivision": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "carrots": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "cd": {
+            "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -137,10 +308,118 @@
                 "kotlin": "NC"
             }
         },
+        "chopwood": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "circuitmath": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "classy": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "competitivearcadebasketball": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "compoundwords": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "conformity": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "continuousmedian": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "control": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "conversationlog": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "cookieselection": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "crackingthecode": {
             "cat": "string",
             "res": {
                 "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "deathstar": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "delimitersoup": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -164,8 +443,71 @@
                 "kotlin": "NC"
             }
         },
+        "divideby100": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "doctorkattis": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "downtime": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "dyslectionary": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "eligibility": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "epigdanceoff": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "esej": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "evenup": {
+            "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -191,6 +533,15 @@
                 "kotlin": "NC"
             }
         },
+        "fenwick": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "filip": {
             "cat": "easy",
             "res": {
@@ -209,8 +560,89 @@
                 "kotlin": "NC"
             }
         },
+        "flagquiz": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "flowshop": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "freefood": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "funhouse": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "gcpc": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "grandpabernie": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "greedilyincreasing": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "greetingcard": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "hangingout": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "height": {
+            "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -281,10 +713,28 @@
                 "kotlin": "NC"
             }
         },
+        "imageprocessing": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "inflagrantedelicto": {
             "cat": "string",
             "res": {
                 "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "integerlists": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -317,6 +767,24 @@
                 "kotlin": "NC"
             }
         },
+        "joinstrings": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "jollyjumpers": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "judgingmoose": {
             "cat": "easy",
             "res": {
@@ -326,10 +794,55 @@
                 "kotlin": "NC"
             }
         },
+        "jugglingpatterns": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "juryjeopardy": {
             "cat": "string",
             "res": {
                 "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "justforsidekicks": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "kattissquest": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "knigsoftheforest": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "ladice": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -380,8 +893,44 @@
                 "kotlin": "NC"
             }
         },
+        "magicsequence": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "mali": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "mastermind": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "mia": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "mjehuric": {
+            "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -398,10 +947,46 @@
                 "kotlin": "NC"
             }
         },
+        "moviecollection": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "musicyourway": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "nineknights": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "nizovi": {
             "cat": "string",
             "res": {
                 "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "numbertree": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -443,6 +1028,15 @@
                 "kotlin": "NC"
             }
         },
+        "pairingsocks": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "pandachess": {
             "cat": "string",
             "res": {
@@ -474,6 +1068,15 @@
             "cat": "string",
             "res": {
                 "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "pivot": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -515,6 +1118,15 @@
                 "kotlin": "NC"
             }
         },
+        "princesspeach": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "provincesandgold": {
             "cat": "easy",
             "res": {
@@ -542,6 +1154,15 @@
                 "kotlin": "NC"
             }
         },
+        "quickbrownfox": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "r2": {
             "cat": "easy",
             "res": {
@@ -560,10 +1181,64 @@
                 "kotlin": "NC"
             }
         },
+        "recount": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "restaurant": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "rhyming": {
             "cat": "string",
             "res": {
                 "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "rings2": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "shiritori": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "sidewayssorting": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "sim": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -578,8 +1253,44 @@
                 "kotlin": "NC"
             }
         },
+        "snapperhard": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "sortofsorting": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "srednji": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "statistics": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "stockprices": {
+            "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -600,6 +1311,15 @@
             "cat": "string",
             "res": {
                 "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "supercomputer": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -641,8 +1361,35 @@
                 "kotlin": "NC"
             }
         },
+        "throwns": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "timeloop": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "traveltheskies": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "unionfind": {
+            "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
