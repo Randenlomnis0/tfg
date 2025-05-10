@@ -128,6 +128,15 @@
                 "kotlin": "NC"
             }
         },
+        "bagoftiles": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "baloni": {
             "cat": "datastruct",
             "res": {
@@ -177,6 +186,15 @@
             "cat": "easy",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "beepers": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -263,6 +281,15 @@
                 "kotlin": "NC"
             }
         },
+        "bustour": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "calculator": {
             "cat": "string",
             "res": {
@@ -276,6 +303,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "canonical": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -328,6 +364,15 @@
         },
         "classy": {
             "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "commercials": {
+            "cat": "dp",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -402,6 +447,15 @@
             "cat": "string",
             "res": {
                 "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "cycleseasy": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -497,6 +551,15 @@
                 "kotlin": "NC"
             }
         },
+        "errands": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "esej": {
             "cat": "datastruct",
             "res": {
@@ -510,6 +573,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "exactchange2": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -722,6 +794,15 @@
                 "kotlin": "NC"
             }
         },
+        "increasingsubsequence": {
+            "cat": "dp",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "inflagrantedelicto": {
             "cat": "string",
             "res": {
@@ -830,10 +911,28 @@
                 "kotlin": "NC"
             }
         },
+        "knapsack": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "knigsoftheforest": {
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "kutevi": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -965,6 +1064,24 @@
                 "kotlin": "NC"
             }
         },
+        "nesteddolls": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "nikola": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "nineknights": {
             "cat": "datastruct",
             "res": {
@@ -1014,6 +1131,15 @@
             "cat": "easy",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "orders": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1109,6 +1235,15 @@
                 "kotlin": "NC"
             }
         },
+        "presidentialelections": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "princeandprincess": {
             "cat": "string",
             "res": {
@@ -1129,6 +1264,15 @@
         },
         "provincesandgold": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "prozor": {
+            "cat": "dp",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -1217,6 +1361,15 @@
                 "kotlin": "NC"
             }
         },
+        "sellingspatulas": {
+            "cat": "dp",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "shiritori": {
             "cat": "datastruct",
             "res": {
@@ -1266,6 +1419,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "spiderman": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1370,10 +1532,37 @@
                 "kotlin": "NC"
             }
         },
+        "ticketpricing": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "tight": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "timeloop": {
             "cat": "easy",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "trainsorting": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1401,6 +1590,15 @@
             "cat": "easy",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "walrusweights": {
+            "cat": "dp",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
