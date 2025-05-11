@@ -65,6 +65,24 @@
                 "kotlin": "NC"
             }
         },
+        "airlinehub": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "alldifferentdirections": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "almostunionfind": {
             "cat": "datastruct",
             "res": {
@@ -78,6 +96,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "amsterdamdistance": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -191,10 +218,37 @@
                 "kotlin": "NC"
             }
         },
+        "beavergnaw": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "beepers": {
             "cat": "dp",
             "res": {
                 "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "biggest": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "billiard": {
+            "cat": "geom",
+            "res": {
+                "cpp": "AC",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -236,10 +290,28 @@
                 "kotlin": "NC"
             }
         },
+        "bottles": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "bread": {
             "cat": "datastruct",
             "res": {
                 "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "browniepoints": {
+            "cat": "geom",
+            "res": {
+                "cpp": "AC",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -344,6 +416,15 @@
                 "kotlin": "NC"
             }
         },
+        "cetvrta": {
+            "cat": "geom",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "chopwood": {
             "cat": "datastruct",
             "res": {
@@ -434,6 +515,33 @@
                 "kotlin": "NC"
             }
         },
+        "convex": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "convexhull": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "convexpolygonarea": {
+            "cat": "geom",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "cookieselection": {
             "cat": "datastruct",
             "res": {
@@ -447,6 +555,33 @@
             "cat": "string",
             "res": {
                 "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "cropeasy": {
+            "cat": "geom",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "cursethedarkness": {
+            "cat": "geom",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "cuttingcorners": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -533,6 +668,15 @@
                 "kotlin": "NC"
             }
         },
+        "egypt": {
+            "cat": "geom",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "eligibility": {
             "cat": "easy",
             "res": {
@@ -562,6 +706,15 @@
         },
         "esej": {
             "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "estimatingtheareaofacircle": {
+            "cat": "geom",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -636,6 +789,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "flowers": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -776,6 +938,15 @@
                 "kotlin": "NC"
             }
         },
+        "hurricanedanger": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "imagedecoding": {
             "cat": "string",
             "res": {
@@ -789,6 +960,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "imperfectgps": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -983,6 +1163,15 @@
                 "kotlin": "NC"
             }
         },
+        "logo2": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "lostlineup": {
             "cat": "easy",
             "res": {
@@ -1041,6 +1230,15 @@
             "cat": "easy",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "mountainbiking": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1127,6 +1325,15 @@
                 "kotlin": "NC"
             }
         },
+        "officespace": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "onechicken": {
             "cat": "easy",
             "res": {
@@ -1138,6 +1345,15 @@
         },
         "orders": {
             "cat": "dp",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "ornaments": {
+            "cat": "geom",
             "res": {
                 "cpp": "NV",
                 "python": "NC",
@@ -1208,8 +1424,26 @@
                 "kotlin": "NC"
             }
         },
+        "platforme": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "playfair": {
             "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "pointinpolygon": {
+            "cat": "geom",
             "res": {
                 "cpp": "NV",
                 "python": "NC",
@@ -1334,6 +1568,15 @@
                 "kotlin": "NC"
             }
         },
+        "rectanglesurrounding": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "restaurant": {
             "cat": "datastruct",
             "res": {
@@ -1356,6 +1599,33 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "roberthood": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "robotprotection": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "roundedbuttons": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1444,6 +1714,15 @@
         },
         "statistics": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "stickysituation": {
+            "cat": "geom",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -1577,8 +1856,26 @@
                 "kotlin": "NC"
             }
         },
+        "trilemma": {
+            "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "unionfind": {
             "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "unlockpattern": {
+            "cat": "geom",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
