@@ -5,7 +5,7 @@ using namespace std;
 #define FOR(i,j,k) for (int i = j; i < k; ++i)
 int main() {
     cin.sync_with_stdio(false);
-    cin.tie(nullptr);   
+    cin.tie(nullptr);
     int n, naux, nauxx;
     string s, aux, ans;
     while (cin >> n, n) {

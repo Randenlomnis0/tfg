@@ -1478,6 +1478,15 @@
                 "kotlin": "NC"
             }
         },
+        "primaryarithmetic": {
+            "cat": "bigint",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "princeandprincess": {
             "cat": "string",
             "res": {
@@ -1662,6 +1671,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "simpleaddition": {
+            "cat": "bigint",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1894,6 +1912,15 @@
         },
         "walrusweights": {
             "cat": "dp",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "wizardofodds": {
+            "cat": "bigint",
             "res": {
                 "cpp": "NV",
                 "python": "NC",
