@@ -110,6 +110,15 @@
                 "kotlin": "NC"
             }
         },
+        "anewalphabet": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "apaxiaaans": {
             "cat": "string",
             "res": {
@@ -128,8 +137,26 @@
                 "kotlin": "NC"
             }
         },
+        "asciiaddition": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "asciifigurerotation": {
             "cat": "string",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "autori": {
+            "cat": "adhoc",
             "res": {
                 "cpp": "NV",
                 "python": "NC",
@@ -209,8 +236,26 @@
                 "kotlin": "NC"
             }
         },
+        "battleship": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "battlesimulation": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "beatspread": {
+            "cat": "adhoc",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -236,6 +281,24 @@
                 "kotlin": "NC"
             }
         },
+        "bela": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "bestbefore": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "biggest": {
             "cat": "geom",
             "res": {
@@ -249,6 +312,15 @@
             "cat": "geom",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "birthdayboy": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -425,6 +497,24 @@
                 "kotlin": "NC"
             }
         },
+        "chess": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "chopin": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "chopwood": {
             "cat": "datastruct",
             "res": {
@@ -461,6 +551,15 @@
                 "kotlin": "NC"
             }
         },
+        "compass": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "competitivearcadebasketball": {
             "cat": "datastruct",
             "res": {
@@ -488,6 +587,15 @@
                 "kotlin": "NC"
             }
         },
+        "connectthedots": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "continuousmedian": {
             "cat": "datastruct",
             "res": {
@@ -501,6 +609,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "conundrum": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -555,6 +672,15 @@
             "cat": "string",
             "res": {
                 "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "creditcard": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -632,6 +758,15 @@
                 "kotlin": "NC"
             }
         },
+        "display": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "divideby100": {
             "cat": "datastruct",
             "res": {
@@ -681,6 +816,24 @@
             "cat": "easy",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "empleh": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "encodedmessage": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -821,6 +974,33 @@
                 "kotlin": "NC"
             }
         },
+        "friday": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "froggie": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "functionalfun": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "funhouse": {
             "cat": "datastruct",
             "res": {
@@ -830,8 +1010,26 @@
                 "kotlin": "NC"
             }
         },
+        "gamerank": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "gcpc": {
             "cat": "datastruct",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "glitchbot": {
+            "cat": "adhoc",
             "res": {
                 "cpp": "NV",
                 "python": "NC",
@@ -859,6 +1057,15 @@
         },
         "greetingcard": {
             "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "guessinggame": {
+            "cat": "adhoc",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -895,6 +1102,15 @@
         },
         "helpaphd": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "helpme": {
+            "cat": "adhoc",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -1073,6 +1289,15 @@
                 "kotlin": "NC"
             }
         },
+        "justaminute": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "justforsidekicks": {
             "cat": "datastruct",
             "res": {
@@ -1181,6 +1406,15 @@
                 "kotlin": "NC"
             }
         },
+        "luhnchecksum": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "magicsequence": {
             "cat": "datastruct",
             "res": {
@@ -1199,10 +1433,28 @@
                 "kotlin": "NC"
             }
         },
+        "marswindow": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "mastermind": {
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "memorymatch": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1253,10 +1505,28 @@
                 "kotlin": "NC"
             }
         },
+        "musicalnotation": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "musicyourway": {
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "natrij": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1370,6 +1640,15 @@
                 "kotlin": "NC"
             }
         },
+        "pachydermpeanutpacking": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "pairingsocks": {
             "cat": "datastruct",
             "res": {
@@ -1406,10 +1685,28 @@
                 "kotlin": "NC"
             }
         },
+        "pervasiveheartmonitor": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "phonelist": {
             "cat": "string",
             "res": {
                 "cpp": "NC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "piglatin": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1500,6 +1797,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "printingcosts": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1604,6 +1910,15 @@
                 "kotlin": "NC"
             }
         },
+        "rimski": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "rings2": {
             "cat": "datastruct",
             "res": {
@@ -1631,8 +1946,44 @@
                 "kotlin": "NC"
             }
         },
+        "rockpaperscissors": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "romanholidays": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "roundedbuttons": {
             "cat": "geom",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "savingdaylight": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "secretmessage": {
+            "cat": "adhoc",
             "res": {
                 "cpp": "NV",
                 "python": "NC",
@@ -1651,6 +2002,15 @@
         },
         "shiritori": {
             "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "shuffling": {
+            "cat": "adhoc",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -1678,6 +2038,15 @@
         },
         "simpleaddition": {
             "cat": "bigint",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "skener": {
+            "cat": "adhoc",
             "res": {
                 "cpp": "NV",
                 "python": "NC",
@@ -1784,6 +2153,24 @@
                 "kotlin": "NC"
             }
         },
+        "t9spelling": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "tajna": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "tarifa": {
             "cat": "easy",
             "res": {
@@ -1838,6 +2225,15 @@
                 "kotlin": "NC"
             }
         },
+        "tictactoe2": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "tight": {
             "cat": "dp",
             "res": {
@@ -1847,8 +2243,53 @@
                 "kotlin": "NC"
             }
         },
+        "timebomb": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "timeloop": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "timezones": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "toilet": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "touchscreenkeyboard": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "trainpassengers": {
+            "cat": "adhoc",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -1878,6 +2319,15 @@
             "cat": "geom",
             "res": {
                 "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "turtlemaster": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1919,8 +2369,44 @@
                 "kotlin": "NC"
             }
         },
+        "wertyu": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "windows": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "wizardofodds": {
             "cat": "bigint",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "wordcloud": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "workout": {
+            "cat": "adhoc",
             "res": {
                 "cpp": "NV",
                 "python": "NC",
