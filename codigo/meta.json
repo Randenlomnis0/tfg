@@ -29,6 +29,15 @@
                 "kotlin": "NC"
             }
         },
+        "a1paper": {
+            "cat": "dandc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "abinitio": {
             "cat": "datastruct",
             "res": {
@@ -515,6 +524,15 @@
                 "kotlin": "NC"
             }
         },
+        "carefulascent": {
+            "cat": "dandc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "carrots": {
             "cat": "easy",
             "res": {
@@ -528,6 +546,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "ceiling": {
+            "cat": "dandc",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1010,6 +1037,15 @@
                 "kotlin": "NC"
             }
         },
+        "firefly": {
+            "cat": "dandc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "fizzbuzz": {
             "cat": "easy",
             "res": {
@@ -1050,6 +1086,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "freeweights": {
+            "cat": "dandc",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1120,6 +1165,15 @@
         },
         "glitchbot": {
             "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "goingtoseed": {
+            "cat": "dandc",
             "res": {
                 "cpp": "NV",
                 "python": "NC",
@@ -1595,6 +1649,15 @@
                 "kotlin": "NC"
             }
         },
+        "monk": {
+            "cat": "dandc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "moscowdream": {
             "cat": "easy",
             "res": {
@@ -1752,6 +1815,15 @@
             "cat": "string",
             "res": {
                 "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "outofsorts": {
+            "cat": "dandc",
+            "res": {
+                "cpp": "AC",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -2081,6 +2153,15 @@
                 "kotlin": "NC"
             }
         },
+        "roompainting": {
+            "cat": "dandc",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "roundedbuttons": {
             "cat": "geom",
             "res": {
@@ -2292,6 +2373,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "suspensionbridges": {
+            "cat": "dandc",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
