@@ -65,6 +65,15 @@
                 "kotlin": "NC"
             }
         },
+        "airconditioned": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "airlinehub": {
             "cat": "geom",
             "res": {
@@ -112,6 +121,15 @@
         },
         "anewalphabet": {
             "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "ants": {
+            "cat": "greedy",
             "res": {
                 "cpp": "NV",
                 "python": "NC",
@@ -191,10 +209,28 @@
                 "kotlin": "NC"
             }
         },
+        "ballotboxes": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "baloni": {
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "bank": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -310,6 +346,15 @@
         },
         "billiard": {
             "cat": "geom",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "birds": {
+            "cat": "greedy",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -461,6 +506,15 @@
                 "kotlin": "NC"
             }
         },
+        "canvas": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "carrots": {
             "cat": "easy",
             "res": {
@@ -528,6 +582,15 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "classrooms": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -740,6 +803,15 @@
                 "kotlin": "NC"
             }
         },
+        "delivery": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "different": {
             "cat": "easy",
             "res": {
@@ -787,6 +859,15 @@
         },
         "downtime": {
             "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "dvds": {
+            "cat": "greedy",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -992,6 +1073,15 @@
                 "kotlin": "NC"
             }
         },
+        "froshweek2": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "functionalfun": {
             "cat": "adhoc",
             "res": {
@@ -1158,6 +1248,15 @@
             "cat": "geom",
             "res": {
                 "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "icpcteamselection": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "AC",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -1433,6 +1532,15 @@
                 "kotlin": "NC"
             }
         },
+        "marblestree": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "marswindow": {
             "cat": "adhoc",
             "res": {
@@ -1462,6 +1570,15 @@
         },
         "mia": {
             "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "minimumscalar": {
+            "cat": "greedy",
             "res": {
                 "cpp": "AC",
                 "python": "NC",
@@ -2009,6 +2126,15 @@
                 "kotlin": "NC"
             }
         },
+        "shopaholic": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "shuffling": {
             "cat": "adhoc",
             "res": {
@@ -2090,6 +2216,15 @@
                 "kotlin": "NC"
             }
         },
+        "squarepegs": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "srednji": {
             "cat": "datastruct",
             "res": {
@@ -2112,6 +2247,15 @@
             "cat": "geom",
             "res": {
                 "cpp": "AC",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "stockbroker": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "NV",
                 "python": "NC",
                 "java": "NC",
                 "kotlin": "NC"
@@ -2360,6 +2504,24 @@
                 "kotlin": "NC"
             }
         },
+        "vegetables": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "virus": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
         "vote": {
             "cat": "easy",
             "res": {
@@ -2416,6 +2578,15 @@
         },
         "workout": {
             "cat": "adhoc",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC",
+                "kotlin": "NC"
+            }
+        },
+        "workstations": {
+            "cat": "greedy",
             "res": {
                 "cpp": "NV",
                 "python": "NC",
