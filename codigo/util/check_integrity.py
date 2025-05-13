@@ -1,4 +1,4 @@
-from vars import folder_soluciones, archivo_meta
+from settings import folder_soluciones, archivo_meta
 from pathlib import Path
 import json
 

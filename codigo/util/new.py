@@ -1,4 +1,5 @@
 from check_integrity import load_info
+from settings import lan
 import random
 
 def get_new(judg, lan):
@@ -23,8 +24,6 @@ def get_new(judg, lan):
     return random.choice(options)
 
 def main():
-    lan = 'cpp'
-
     print(f'lan={lan} -> \033[1m{get_new('kat', lan)}\033[0m')
 
 if __name__ == '__main__':
