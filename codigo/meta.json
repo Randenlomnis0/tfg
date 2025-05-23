@@ -18,6 +18,22 @@
         }
     },
     "kat": {
+        "10kindsofpeople": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "246greaaat": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "2048": {
             "cat": "datastruct",
             "res": {
@@ -58,6 +74,14 @@
                 "java": "NC"
             }
         },
+        "adjoin": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "administrativeproblems": {
             "cat": "datastruct",
             "res": {
@@ -90,6 +114,14 @@
                 "java": "NC"
             }
         },
+        "allpairspath": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "almostunionfind": {
             "cat": "datastruct",
             "res": {
@@ -103,6 +135,14 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "amoebas": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -135,6 +175,14 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "arbitrage": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -330,6 +378,14 @@
                 "java": "NC"
             }
         },
+        "birthday": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "birthdayboy": {
             "cat": "adhoc",
             "res": {
@@ -351,6 +407,22 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "blockcrusher": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "bookclub": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -386,6 +458,14 @@
                 "java": "NC"
             }
         },
+        "brexit": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "browniepoints": {
             "cat": "geom",
             "res": {
@@ -407,6 +487,14 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "builddeps": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -434,6 +522,14 @@
                 "java": "NC"
             }
         },
+        "buttonbashing": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "calculator": {
             "cat": "string",
             "res": {
@@ -458,11 +554,27 @@
                 "java": "NC"
             }
         },
+        "cantinaofbabel": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "canvas": {
             "cat": "greedy",
             "res": {
                 "cpp": "NV",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "cardmagic": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -479,6 +591,30 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "catenyms": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "cats": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "caveexploration": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -562,6 +698,14 @@
                 "java": "NC"
             }
         },
+        "coast": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "commercials": {
             "cat": "dp",
             "res": {
@@ -607,6 +751,14 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "conservation": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -671,6 +823,14 @@
             "res": {
                 "cpp": "NV",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "countingstars": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -786,11 +946,35 @@
                 "java": "NC"
             }
         },
+        "dominoes2": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "dominos": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "downtime": {
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "drinkresponsibly": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -834,6 +1018,14 @@
                 "java": "NC"
             }
         },
+        "emptyingbaltic": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "encodedmessage": {
             "cat": "adhoc",
             "res": {
@@ -850,11 +1042,27 @@
                 "java": "NC"
             }
         },
+        "equivalences": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "errands": {
             "cat": "dp",
             "res": {
                 "cpp": "NV",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "escapeplan": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -871,6 +1079,14 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "eulerianpath": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -906,6 +1122,14 @@
                 "java": "NC"
             }
         },
+        "faultyrobot": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "fenwick": {
             "cat": "datastruct",
             "res": {
@@ -914,11 +1138,27 @@
                 "java": "NC"
             }
         },
+        "fibtour": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "filip": {
             "cat": "easy",
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "fire2": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -946,11 +1186,35 @@
                 "java": "NC"
             }
         },
+        "flight": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "flippingcards": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "flowers": {
             "cat": "geom",
             "res": {
                 "cpp": "NV",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "flowerytrails": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -1050,11 +1314,27 @@
                 "java": "NC"
             }
         },
+        "gold": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "grandpabernie": {
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "grasshopper": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -1074,6 +1354,14 @@
                 "java": "NC"
             }
         },
+        "grid": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "guessinggame": {
             "cat": "adhoc",
             "res": {
@@ -1087,6 +1375,14 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "hauntedgraveyard": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -1138,6 +1434,14 @@
                 "java": "NC"
             }
         },
+        "hidingplaces": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "hillnumbers": {
             "cat": "string",
             "res": {
@@ -1151,6 +1455,22 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "hoppers": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "horror": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -1194,6 +1514,14 @@
                 "java": "NC"
             }
         },
+        "importspaghetti": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "increasingsubsequence": {
             "cat": "dp",
             "res": {
@@ -1218,6 +1546,22 @@
                 "java": "NC"
             }
         },
+        "intercept": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "invasion": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "irepeatmyself": {
             "cat": "string",
             "res": {
@@ -1231,6 +1575,22 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "islandhopping": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "islands3": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -1298,6 +1658,14 @@
                 "java": "NC"
             }
         },
+        "kastenlauf": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "kattissquest": {
             "cat": "datastruct",
             "res": {
@@ -1311,6 +1679,14 @@
             "res": {
                 "cpp": "NV",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "knightjump": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -1378,11 +1754,27 @@
                 "java": "NC"
             }
         },
+        "lost": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "lostlineup": {
             "cat": "easy",
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "lostmap": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -1410,6 +1802,14 @@
                 "java": "NC"
             }
         },
+        "mallmania": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "marblestree": {
             "cat": "greedy",
             "res": {
@@ -1434,6 +1834,14 @@
                 "java": "NC"
             }
         },
+        "maximizingwinnings": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "memorymatch": {
             "cat": "adhoc",
             "res": {
@@ -1450,6 +1858,14 @@
                 "java": "NC"
             }
         },
+        "millionairemadness": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "minimumscalar": {
             "cat": "greedy",
             "res": {
@@ -1458,11 +1874,27 @@
                 "java": "NC"
             }
         },
+        "minspantree": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "mjehuric": {
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "molekule": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -1498,6 +1930,22 @@
                 "java": "NC"
             }
         },
+        "mravi": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "muddyhike": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "musicalnotation": {
             "cat": "adhoc",
             "res": {
@@ -1519,6 +1967,14 @@
             "res": {
                 "cpp": "NV",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "naturereserve": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -1559,6 +2015,14 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "oceancurrents": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -1682,6 +2146,14 @@
                 "java": "NC"
             }
         },
+        "pickupsticks": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "piglatin": {
             "cat": "adhoc",
             "res": {
@@ -1778,6 +2250,14 @@
                 "java": "NC"
             }
         },
+        "promotions": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "provincesandgold": {
             "cat": "easy",
             "res": {
@@ -1831,6 +2311,22 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "railroad2": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "reachableroads": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -1898,6 +2394,14 @@
                 "java": "NC"
             }
         },
+        "robotsonagrid": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "rockpaperscissors": {
             "cat": "adhoc",
             "res": {
@@ -1930,11 +2434,51 @@
                 "java": "NC"
             }
         },
+        "runningmom": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "runningsteps": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "safepassage": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "savingdaylight": {
             "cat": "adhoc",
             "res": {
                 "cpp": "NV",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "scenes": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "secretchamber": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -1967,6 +2511,30 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "shortestpath1": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "shortestpath2": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "shortestpath3": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -2106,6 +2674,14 @@
                 "java": "NC"
             }
         },
+        "succession": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "supercomputer": {
             "cat": "datastruct",
             "res": {
@@ -2159,6 +2735,22 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "terraces": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
+        "texassummers": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -2242,11 +2834,27 @@
                 "java": "NC"
             }
         },
+        "torn2pieces": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "touchscreenkeyboard": {
             "cat": "adhoc",
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "tourists": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -2263,6 +2871,14 @@
             "res": {
                 "cpp": "NV",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "transportationplanning": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -2322,6 +2938,14 @@
                 "java": "NC"
             }
         },
+        "visualgo": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
+                "java": "NC"
+            }
+        },
         "vote": {
             "cat": "easy",
             "res": {
@@ -2343,6 +2967,14 @@
             "res": {
                 "cpp": "AC",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "wheresmyinternet": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "python": "NC",
                 "java": "NC"
             }
         },
@@ -2383,6 +3015,14 @@
             "res": {
                 "cpp": "NV",
                 "py": "NC",
+                "java": "NC"
+            }
+        },
+        "xyzzy": {
+            "cat": "graph",
+            "res": {
+                "cpp": "NV",
+                "python": "NC",
                 "java": "NC"
             }
         },
