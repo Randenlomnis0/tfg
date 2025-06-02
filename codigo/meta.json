@@ -30,7 +30,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "python": "AC",
                 "java": "NC"
             }
         },
@@ -70,7 +70,7 @@
             "cat": "easy",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -78,7 +78,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "python": "AC",
                 "java": "NC"
             }
         },
@@ -110,7 +110,7 @@
             "cat": "greedy",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -126,7 +126,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "python": "AC",
                 "java": "NC"
             }
         },
@@ -174,7 +174,7 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -182,7 +182,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "python": "AC",
                 "java": "NC"
             }
         },
@@ -246,7 +246,7 @@
             "cat": "string",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -270,7 +270,7 @@
             "cat": "easy",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -310,7 +310,7 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -350,7 +350,7 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -406,7 +406,7 @@
             "cat": "easy",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -430,7 +430,7 @@
             "cat": "adhoc",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -446,7 +446,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "python": "AC",
                 "java": "NC"
             }
         },
@@ -486,7 +486,7 @@
             "cat": "geom",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -494,7 +494,7 @@
             "cat": "greedy",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -502,7 +502,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "python": "AC",
                 "java": "NC"
             }
         },
@@ -574,7 +574,7 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -614,7 +614,7 @@
             "cat": "geom",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -638,7 +638,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "python": "RTE",
                 "java": "NC"
             }
         },
@@ -646,7 +646,7 @@
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -670,7 +670,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "python": "AC",
                 "java": "NC"
             }
         },
@@ -686,7 +686,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "python": "AC",
                 "java": "NC"
             }
         },
@@ -750,7 +750,7 @@
             "cat": "easy",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -822,7 +822,7 @@
             "cat": "geom",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -846,7 +846,7 @@
             "cat": "adhoc",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -902,7 +902,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "python": "AC",
                 "java": "NC"
             }
         },
@@ -918,7 +918,7 @@
             "cat": "dp",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -926,7 +926,7 @@
             "cat": "adhoc",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -1078,7 +1078,7 @@
             "cat": "geom",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -1086,7 +1086,7 @@
             "cat": "geom",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -1262,7 +1262,7 @@
             "cat": "greedy",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -1510,7 +1510,7 @@
             "cat": "dandc",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -1622,7 +1622,7 @@
             "cat": "greedy",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -1654,7 +1654,7 @@
             "cat": "adhoc",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -1814,7 +1814,7 @@
             "cat": "string",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -1950,7 +1950,7 @@
             "cat": "dp",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -2006,7 +2006,7 @@
             "cat": "string",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -2182,7 +2182,7 @@
             "cat": "string",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -2262,7 +2262,7 @@
             "cat": "adhoc",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -2374,7 +2374,7 @@
             "cat": "greedy",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -2686,7 +2686,7 @@
             "cat": "dandc",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -2830,7 +2830,7 @@
             "cat": "string",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -2934,7 +2934,7 @@
             "cat": "dp",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
+                "py": "AC",
                 "java": "NC"
             }
         },
