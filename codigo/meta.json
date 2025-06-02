@@ -4,7 +4,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -30,7 +30,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "AC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -38,7 +38,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -78,7 +78,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "AC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -94,7 +94,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -126,7 +126,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "AC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -134,7 +134,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -150,7 +150,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -166,7 +166,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -182,7 +182,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "AC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -198,7 +198,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -214,7 +214,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -222,7 +222,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -230,7 +230,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -254,7 +254,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -262,7 +262,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -302,7 +302,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -326,7 +326,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -390,7 +390,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -398,7 +398,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -446,7 +446,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "AC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -502,7 +502,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "AC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -518,7 +518,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -542,7 +542,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -550,7 +550,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -558,7 +558,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -566,7 +566,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -606,7 +606,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -638,7 +638,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "RTE",
+                "py": "RTE",
                 "java": "NC"
             }
         },
@@ -670,7 +670,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "AC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -686,7 +686,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "AC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -694,7 +694,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -718,7 +718,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -734,7 +734,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -758,7 +758,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -766,7 +766,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -774,7 +774,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -782,7 +782,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -790,7 +790,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -830,7 +830,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -838,7 +838,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -894,7 +894,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -902,7 +902,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "AC",
+                "py": "AC",
                 "java": "NC"
             }
         },
@@ -910,7 +910,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -966,7 +966,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -974,7 +974,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1046,7 +1046,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1070,7 +1070,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1094,7 +1094,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1118,7 +1118,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1126,7 +1126,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1158,7 +1158,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1198,7 +1198,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1206,7 +1206,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1222,7 +1222,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1230,7 +1230,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1246,7 +1246,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1254,7 +1254,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1286,7 +1286,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1310,7 +1310,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1326,7 +1326,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1342,7 +1342,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1358,7 +1358,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1382,7 +1382,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1390,7 +1390,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1422,7 +1422,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1430,7 +1430,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1438,7 +1438,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1454,7 +1454,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1470,7 +1470,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1478,7 +1478,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1486,7 +1486,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1502,7 +1502,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1534,7 +1534,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1542,7 +1542,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1550,7 +1550,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1566,7 +1566,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1582,7 +1582,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1638,7 +1638,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1686,7 +1686,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1694,7 +1694,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1702,7 +1702,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1718,7 +1718,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1742,7 +1742,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1766,7 +1766,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1822,7 +1822,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1846,7 +1846,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1854,7 +1854,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1862,7 +1862,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1870,7 +1870,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1894,7 +1894,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1902,7 +1902,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1934,7 +1934,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1942,7 +1942,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1966,7 +1966,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1982,7 +1982,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1990,7 +1990,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -1998,7 +1998,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2022,7 +2022,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2030,7 +2030,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2046,7 +2046,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2110,7 +2110,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2134,7 +2134,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2198,7 +2198,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2206,7 +2206,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2222,7 +2222,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2230,7 +2230,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2246,7 +2246,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2254,7 +2254,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2286,7 +2286,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2294,7 +2294,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2326,7 +2326,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2334,7 +2334,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2350,7 +2350,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2366,7 +2366,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2382,7 +2382,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2390,7 +2390,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2398,7 +2398,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2414,7 +2414,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2422,7 +2422,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2438,7 +2438,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2470,7 +2470,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2478,7 +2478,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2502,7 +2502,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2518,7 +2518,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2526,7 +2526,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2550,7 +2550,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2574,7 +2574,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2590,7 +2590,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2598,7 +2598,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2622,7 +2622,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2638,7 +2638,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2654,7 +2654,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2718,7 +2718,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2742,7 +2742,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2766,7 +2766,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2806,7 +2806,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2838,7 +2838,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2854,7 +2854,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2870,7 +2870,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2878,7 +2878,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2886,7 +2886,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2918,7 +2918,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2942,7 +2942,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2950,7 +2950,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -2998,7 +2998,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3006,7 +3006,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3014,7 +3014,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3022,7 +3022,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3046,7 +3046,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3054,7 +3054,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3078,7 +3078,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3118,7 +3118,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3158,7 +3158,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3166,7 +3166,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3174,7 +3174,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3190,7 +3190,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3198,7 +3198,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3238,7 +3238,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3246,7 +3246,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3254,7 +3254,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3302,7 +3302,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3334,7 +3334,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3358,7 +3358,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3422,7 +3422,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3486,7 +3486,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3494,7 +3494,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3510,7 +3510,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3526,7 +3526,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3534,7 +3534,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3542,7 +3542,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3614,7 +3614,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3630,7 +3630,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3654,7 +3654,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3678,7 +3678,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3686,7 +3686,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3702,7 +3702,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3710,7 +3710,7 @@
             "cat": "math",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3750,7 +3750,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3782,7 +3782,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3830,7 +3830,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
@@ -3838,7 +3838,7 @@
             "cat": "math",
             "res": {
                 "cpp": "NV",
-                "python": "NC",
+                "py": "NC",
                 "java": "NC"
             }
         },
