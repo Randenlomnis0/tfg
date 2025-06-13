@@ -23,6 +23,54 @@
                 "py": "NC",
                 "java": "NC"
             }
+        },
+        "789": {
+            "cat": "math",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "791": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "795": {
+            "cat": "ad-hoc",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "796": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "797": {
+            "cat": "adhoc",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "798": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
         }
     },
     "kat": {
@@ -31,7 +79,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "246greaaat": {
@@ -71,7 +119,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "ada": {
@@ -79,7 +127,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "addingwords": {
@@ -111,7 +159,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "airlinehub": {
@@ -127,7 +175,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "allaboutthatbase": {
@@ -175,7 +223,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "amoebas": {
@@ -183,7 +231,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "amsterdamdistance": {
@@ -247,7 +295,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "arbitrage": {
@@ -271,7 +319,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "asciiaddition": {
@@ -311,7 +359,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "babynames": {
@@ -351,7 +399,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "bank": {
@@ -407,7 +455,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "battleship": {
@@ -431,7 +479,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "beavergnaw": {
@@ -447,7 +495,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "beepers": {
@@ -487,7 +535,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "birds": {
@@ -495,7 +543,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "birthday": {
@@ -503,7 +551,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "birthdayboy": {
@@ -575,7 +623,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "bossbattle": {
@@ -615,7 +663,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "bst": {
@@ -639,7 +687,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "RTE",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "bungeebuilder": {
@@ -647,7 +695,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "busnumbers": {
@@ -671,7 +719,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "calculator": {
@@ -687,7 +735,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "candydistribution": {
@@ -751,7 +799,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "catalan": {
@@ -814,8 +862,8 @@
             "cat": "easy",
             "res": {
                 "cpp": "AC",
-                "py": "NC",
-                "java": "NC"
+                "py": "AC",
+                "java": "AC"
             }
         },
         "cetvrta": {
@@ -823,7 +871,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "character": {
@@ -847,7 +895,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "chopin": {
@@ -903,7 +951,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "collatz": {
@@ -919,7 +967,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "compass": {
@@ -927,7 +975,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "competitivearcadebasketball": {
@@ -1079,7 +1127,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "cursethedarkness": {
@@ -1087,7 +1135,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "curvyblocks": {
@@ -1263,7 +1311,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "dyslectionary": {
@@ -1511,7 +1559,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "fizzbuzz": {
@@ -1623,7 +1671,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "functionalfun": {
@@ -1655,7 +1703,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "gcpc": {
@@ -1815,7 +1863,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "hidingplaces": {
@@ -1951,7 +1999,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "inflagrantedelicto": {
@@ -2007,7 +2055,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "isithalloween": {
@@ -2183,7 +2231,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "lineup": {
@@ -2263,7 +2311,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "magicsequence": {
@@ -2375,7 +2423,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "minspantree": {
@@ -2687,7 +2735,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "pachydermpeanutpacking": {
@@ -2831,7 +2879,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "porpoises": {
@@ -2935,7 +2983,7 @@
             "res": {
                 "cpp": "AC",
                 "py": "AC",
-                "java": "NC"
+                "java": "AC"
             }
         },
         "prsteni": {
