@@ -686,7 +686,7 @@
             "cat": "graph",
             "res": {
                 "cpp": "AC",
-                "py": "RTE",
+                "py": "AC",
                 "java": "AC"
             }
         },

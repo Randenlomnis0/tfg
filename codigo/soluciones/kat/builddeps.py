@@ -1,9 +1,12 @@
+import sys
+sys.setrecursionlimit(10**6)
 def dfs(changed, AL, ts, visited):
     visited.add(changed)
-    for s in AL[changed]:
-        if s in visited:
-            continue
-        dfs(s, AL, ts, visited)
+    if changed in AL:
+        for s in AL[changed]:
+            if s in visited:
+                continue
+            dfs(s, AL, ts, visited)
     ts.append(changed)
 n = int(input())
 AL = dict()
