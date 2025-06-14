@@ -1,15 +1,10 @@
 #include <bits/stdc++.h>
-
 using namespace std;
 
-int main() {
-
+signed main() {
     cin.sync_with_stdio(false);
     cin.tie(nullptr);
-
-    cout << "Adios" << endl;
-
-    cout.flush();
     
-    return EXIT_SUCCESS;
+    cout.flush();
+    return 0;
 }

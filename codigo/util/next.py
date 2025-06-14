@@ -4,7 +4,7 @@ from settings import lan
 def get_next(judg, lan):
     info = load_info()
 
-    for judge, problem, lang in info:
+    for judge, _, problem, lang in info:
         if judge != judg:
             continue
 

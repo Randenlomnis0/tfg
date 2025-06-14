@@ -5,7 +5,7 @@ def load_stats():
 
     stats = dict()
 
-    for (_, _, lan), veredict in info.items():
+    for (_, _, _, lan), veredict in info.items():
         if lan not in stats:
             stats[lan] = dict()
 

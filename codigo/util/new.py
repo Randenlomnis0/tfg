@@ -7,7 +7,7 @@ def get_new(judg, lan):
 
     options = list()
 
-    for judge, problem, lang in info:
+    for judge, _, problem, lang in info:
         if judge != judg:
             continue
 
@@ -18,6 +18,7 @@ def get_new(judg, lan):
             continue
 
         options.append(problem)
+        
     if len(options) == 0:
         return 'THERE ARE NO NEW PROBLEMS'
     

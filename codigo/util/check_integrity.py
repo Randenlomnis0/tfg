@@ -27,7 +27,7 @@ def load_info():
     for juez in data:
         for problema in data[juez]:
             for lenguaje, veredicto in data[juez][problema]['res'].items():
-                info[(juez, problema, lenguaje)] = veredicto
+                info[(juez, data[juez][problema]['cat'], problema, lenguaje)] = veredicto
     return info
 
 def main():
