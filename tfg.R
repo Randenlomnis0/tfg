@@ -21,14 +21,14 @@ print(
            type = "lower",
            lab = TRUE,
            colors = c("red", "white", "blue"),
-           title = "Correlation Matrix",
-           lab_size = 3) +
+           title = "Matriz de Correlación",
+           lab_size = 4) +
   labs(
-    title = "Correlation Matrix",
+    title = "Matriz de Correlación",
     x = "",
     y = ""
   ) +
-  theme_minimal()
+  theme_minimal(base_size = 16)
 )
 
 filtered_data <- count(
@@ -42,9 +42,10 @@ print(
   ggplot(filtered_data, aes(Category, Frequency, fill = Language)) +
     geom_col(position = "dodge") +
     labs(
-      title = "Frecuencia por Category",
-      x = "Category",
-      y = "Frecuencia"
+      title = "Frecuencia por Categoría y Lenguaje",
+      x = "Categoría",
+      y = "Frecuencia",
+      fill = "Lenguaje"
     ) +
     theme_minimal()
 )
@@ -53,9 +54,10 @@ print(
   ggplot(data, aes(Characters, Lines, color = Language)) +
     geom_point() +
     labs(
-      title = "Distribución de Characters y Lines por Language",
-      x = "Characters",
-      y = "Lines"
+      title = "Distribución de Caracteres y Lineas por Lenguaje",
+      x = "Caracteres",
+      y = "Lineas",
+      color = "Lenguaje"
     ) +
     theme_minimal()
 )
@@ -64,42 +66,49 @@ print(
   ggplot(data, aes(Language, Characters, fill = Language)) +
     geom_boxplot() +
     labs(
-      title = "Distribución de Characters por Language",
-      x = "Language",
-      y = "Characters"
+      title = "Distribución de Caracteres por Lenguaje",
+      x = "Lenguaje",
+      y = "Caracteres",
+      fill = "Lenguaje"
     ) +
-    theme_minimal()
+    theme_minimal() +
+    theme(legend.position = "none")
 )
 
 print(
   ggplot(data, aes(Language, NonWhitespaceCharacters, fill = Language)) +
     geom_boxplot() +
     labs(
-      title = "Distribución de NonWhitespaceCharacters por Language",
-      x = "Language",
-      y = "NonWhitespaceCharacters"
+      title = "Distribución de Caracteres no Blancos por Lenguaje",
+      x = "Lenguaje",
+      y = "Caracteres no Blancos",
+      fill = "Lenguaje"
     ) +
-    theme_minimal()
+    theme_minimal() +
+    theme(legend.position = "none")
 )
 
 print(
   ggplot(data, aes(Language, Lines, fill = Language)) +
     geom_boxplot() +
     labs(
-      title = "Distribución de Lines por Language",
-      x = "Language",
-      y = "Lines"
+      title = "Distribución de Lineas por Lenguaje",
+      x = "Lenguaje",
+      y = "Lineas",
+      fill = "Lenguaje"
     ) +
-    theme_minimal()
+    theme_minimal() +
+    theme(legend.position = "none")
 )
 
 print(
   ggplot(data, aes(Characters, Lines, color = Category)) +
     geom_point() +
     labs(
-      title = "Distribución de Characters y Lines por Category",
-      x = "Characters",
-      y = "Lines"
+      title = "Distribución de Caracteres y Lineas por Categoría",
+      x = "Caracteres",
+      y = "Líneas",
+      color = "Categoría"
     ) +
     theme_minimal()
 )
@@ -108,53 +117,52 @@ print(
   ggplot(data, aes(Category, Characters, fill = Category)) +
     geom_boxplot() +
     labs(
-      title = "Distribución de Characters por Category",
-      x = "Category",
-      y = "Characters"
+      title = "Distribución de Caracteres por Categoría",
+      x = "Categoría",
+      y = "Caracteres",
+      fill = "Categoría"
     ) +
-    theme_minimal()
+    theme_minimal() +
+    theme(legend.position = "none")
 )
 
 print(
   ggplot(data, aes(Category, NonWhitespaceCharacters, fill = Category)) +
     geom_boxplot() +
     labs(
-      title = "Distribución de NonWhitespaceCharacters por Category",
-      x = "Category",
-      y = "NonWhitespaceCharacters"
+      title = "Distribución de Caracteres no Blancos por Categoría",
+      x = "Categoría",
+      y = "Caracteres no Blancos",
+      fill = "Categoría"
     ) +
-    theme_minimal()
+    theme_minimal() +
+    theme(legend.position = "none")
 )
 
 print(
   ggplot(data, aes(Category, Lines, fill = Category)) +
     geom_boxplot() +
     labs(
-      title = "Distribución de Lines por Category",
-      x = "Category",
-      y = "Lines"
+      title = "Distribución de Lineas por Categoría",
+      x = "Categoría",
+      y = "Lineas",
+      fill = "Categoría"
     ) +
-    theme_minimal()
+    theme_minimal() +
+    theme(legend.position = "none")
 )
 
-summary_data <- data %>%
-  select(Language, AverageTokenLength, SDTokenLength) %>%
-  group_by(Language) %>%
-  summarise(
-    Mean = mean(AverageTokenLength),
-    SD = mean(SDTokenLength)
-  )
-
 print(
-  ggplot(summary_data, aes(x = Language, y = Mean, fill = Language)) +
-    geom_col() +
-    geom_errorbar(aes(ymin = Mean - SD, ymax = Mean + SD), width = 0.2) +
+  ggplot(data, aes(Language, Tokens, fill = Language)) +
+    geom_boxplot() +
     labs(
-      title = "Mean Token Length with Standard Deviation",
-      x = "Language",
-      y = "Mean Token Length"
+      title = "Distribución de Tokens por Lenguaje",
+      x = "Lenguaje",
+      y = "Tokens",
+      fill = "Lenguaje"
     ) +
-    theme_minimal()
+    theme_minimal() +
+    theme(legend.position = "none")
 )
 
 summary_data <- data %>%
@@ -170,11 +178,13 @@ print(
     geom_col() +
     geom_errorbar(aes(ymin = Mean - SD, ymax = Mean + SD), width = 0.2) +
     labs(
-      title = "Mean Token Length with Standard Deviation",
-      x = "Category",
-      y = "Mean Token Length"
+      title = "Distribución de Tokens por Categoría",
+      x = "Categoría",
+      y = "Tamaño de Token",
+      fill = "Categoría"
     ) +
-    theme_minimal()
+    theme_minimal() +
+    theme(legend.position = "none")
 )
 
 df_summary_by_cat_lang <- data %>%
@@ -190,32 +200,32 @@ df_summary_by_cat_lang <- data %>%
 print(
   ggplot(df_summary_by_cat_lang, aes(Category, avg_Characters, fill = Language)) +
     geom_col(position = "dodge") +
-    labs(title = "Average Characters by Language and Category",
-         y = "Avg Characters") +
+    labs(title = "Media de Caracteres por Categoría y Lenguaje",
+         x = "Categoría", y = "Media de Caracteres", fill = "Lenguaje") +
     theme_minimal()
 )
 
 print(
   ggplot(df_summary_by_cat_lang, aes(Category, avg_NonWhitespace, fill = Language)) +
     geom_col(position = "dodge") +
-    labs(title = "Average NonWhitespaceCharacters by Language and Category",
-         y = "Avg NonWhitespaceCharacters") +
+    labs(title = "Media de Caracteres no Blancos por Categoría y Lenguaje",
+         x = "Categoría", y = "Media de Caracteres no Blancos", fill = "Lenguaje") +
     theme_minimal()
 )
 
 print(
   ggplot(df_summary_by_cat_lang, aes(Category, avg_Lines, fill = Language)) +
     geom_col(position = "dodge") +
-    labs(title = "Average Lines by Language and Category",
-         y = "Avg Lines") +
+    labs(title = "Media de Lineas por Categoría y Lenguaje",
+         x = "Categoría", y = "Media de Lineas", fill = "Lenguaje") +
     theme_minimal()
 )
 
 print(
   ggplot(df_summary_by_cat_lang, aes(Category, avg_Tokens, fill = Language)) +
     geom_col(position = "dodge") +
-    labs(title = "Average Tokens by Language and Category",
-         y = "Avg Tokens") +
+    labs(title = "Media de Tokens por Categoría y Lenguaje",
+         x = "Categoría", y = "Media de Tokens", fill = "Lenguaje") +
     theme_minimal()
 )
 
@@ -224,8 +234,8 @@ print(
     geom_tile(color = "white") +
     scale_fill_viridis_c() +
     theme_minimal() +
-    labs(title = "Heatmap of Avg Characters per Category and Language",
-         x = "Language", y = "Category")
+    labs(title = "Media de Caracteres por Categoría y Lenguaje",
+         x = "Lenguaje", y = "Categoría", fill = "Media de Caracteres")
 )
 
 print(
@@ -233,8 +243,8 @@ print(
     geom_tile(color = "white") +
     scale_fill_viridis_c() +
     theme_minimal() +
-    labs(title = "Heatmap of Avg NonWhitespaceCharacters per Category and Language",
-         x = "Language", y = "Category")
+    labs(title = "Media de Caracteres no Blancos por Categoría y Lenguaje",
+         x = "Lenguaje", y = "Categoría", fill = "Media de Caracteres no Blancos")
 )
 
 print(
@@ -242,8 +252,8 @@ print(
     geom_tile(color = "white") +
     scale_fill_viridis_c() +
     theme_minimal() +
-    labs(title = "Heatmap of Avg Lines per Category and Language",
-         x = "Language", y = "Category")
+    labs(title = "Media de Lineas por Categoría y Lenguaje",
+         x = "Lenguaje", y = "Categoría", fill = "Media de Lineas")
 )
 
 print(
@@ -251,8 +261,8 @@ print(
     geom_tile(color = "white") +
     scale_fill_viridis_c() +
     theme_minimal() +
-    labs(title = "Heatmap of Avg Tokens per Category and Language",
-         x = "Language", y = "Category")
+    labs(title = "Media de Tokens por Categoría y Lenguaje",
+         x = "Lenguaje", y = "Categoría", fill = "Media de Tokens")
 )
 
 str(df_summary_by_cat_lang)
@@ -268,11 +278,23 @@ print(
     coord_flip() +
     theme_minimal() +
     labs(
-      title = "Best Language per Category (by Shortest Avg Characters)",
-      x = "Category",
-      y = "Avg Characters"
+      title = "Mejor Lenguaje por Categoría",
+      x = "Categoría",
+      y = "Media de Caracteres",
+      fill = "Lenguaje"
     ) +
     theme(legend.position = "top")
 )
 
 print(best_language_per_category)
+
+library(car)
+print(leveneTest(Characters ~ Language, data = data))
+
+print(kruskal.test(Characters ~ Language, data = data))
+
+library(FSA)
+resultado <- dunnTest(Characters ~ Language, data = data, method = "bonferroni")
+
+library(knitr)
+print(kable(resultado$res, digits = 5, caption = "Resultados del Test de Dunn (Bonferroni)"))

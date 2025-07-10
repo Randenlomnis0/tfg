@@ -1,5 +1,13 @@
 {
     "aer": {
+        "391": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
         "555": {
             "cat": "graph",
             "res": {
@@ -16,10 +24,34 @@
                 "java": "NC"
             }
         },
+        "563": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
         "654": {
             "cat": "graph",
             "res": {
                 "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "656": {
+            "cat": "string",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "782": {
+            "cat": "math",
+            "res": {
+                "cpp": "NV",
                 "py": "NC",
                 "java": "NC"
             }
@@ -41,7 +73,7 @@
             }
         },
         "795": {
-            "cat": "ad-hoc",
+            "cat": "adhoc",
             "res": {
                 "cpp": "AC",
                 "py": "NC",
@@ -65,6 +97,174 @@
             }
         },
         "798": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "799": {
+            "cat": "string",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "800": {
+            "cat": "math",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "801": {
+            "cat": "easy",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "802": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "803": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "804": {
+            "cat": "string",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "805": {
+            "cat": "greedy",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "806": {
+            "cat": "math",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "807": {
+            "cat": "dp",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "808": {
+            "cat": "dandc",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "809": {
+            "cat": "dp",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "810": {
+            "cat": "dp",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "811": {
+            "cat": "datastruct",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "812": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "813": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "814": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "815": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "816": {
+            "cat": "graph",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "817": {
+            "cat": "geom",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "818": {
+            "cat": "geom",
+            "res": {
+                "cpp": "AC",
+                "py": "NC",
+                "java": "NC"
+            }
+        },
+        "819": {
             "cat": "datastruct",
             "res": {
                 "cpp": "AC",
